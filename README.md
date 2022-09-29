@@ -7,13 +7,9 @@
 
 Lösningen: https://www.joakimottosson.se/projects/barbershop/
 
-Personal Github: X
+Personal Github: [https://github.com/devjoppe/mi-barbershop](https://github.com/devjoppe/mi-barbershop)
 
 Personal Github pages: X
-
-### Kod :computer:
-
-Se mapp: :open_file_folder: ***src***
 
 ### Valideringsrapport
 
