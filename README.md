@@ -42,11 +42,11 @@ Underlaget bestod av en kortare beskrivning och ett antal bilder som illustrerad
 Så enkelt med ack så viktigt. Även om det inte känns så i början så kommer man spara tid, kod och andra problem. :scream:
 
 
-**SCSS**
+:ok_hand: **SCSS**
 
 Låt det ta lite längre tid i början för att strukturera upp din kod bättre.
 
 
-**srcset, size, .webp**
+:clap: **srcset, size, .webp**
 
 Nytt sätt att arbeta med bilder.
