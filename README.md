@@ -1,4 +1,4 @@
-# Inlämningsuppgift 1 - Barbershop :barber:
+# Barbershop :barber:
 
 ![](/screenshots/01-Chrome/Chrome-desktop-1920-01_Header_Nav.jpg)
 ## Överblick
@@ -7,9 +7,9 @@
 
 Lösningen: https://www.joakimottosson.se/projects/barbershop/
 
-Personal Github: [https://github.com/devjoppe/mi-barbershop](https://github.com/devjoppe/mi-barbershop)
+Personal Github: https://github.com/devjoppe/mi-barbershop
 
-Personal Github pages: X
+Personal Github pages: https://devjoppe.github.io/mi-barbershop/
 
 ### Valideringsrapport
 
