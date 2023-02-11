@@ -5,8 +5,6 @@
 
 ### Länkar
 
-Lösningen: https://www.joakimottosson.se/projects/barbershop/
-
 Personal Github: https://github.com/devjoppe/mi-barbershop
 
 Personal Github pages: https://devjoppe.github.io/mi-barbershop/
